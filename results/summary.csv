@@ -1,0 +1,3 @@
+data_used,best_beta,best_gamma,growth_rate_beta_minus_gamma,R0_best,R0_low,R0_high,R0_true
+first 20 days,0.349,0.158,0.191,2.21,1.49,8.19,2.9999999999999996
+full 120 days,0.301,0.103,0.198,2.93,2.84,2.93,2.9999999999999996
